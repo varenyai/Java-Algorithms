@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="weka-3-8-1">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/javalibs/selenium-java-2.53.1.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/weka-3-8-1" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/commons-io-2.5/commons-io-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/tika-app-1.10.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/univocity-parsers-2.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/jdom-2.0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/json-simple-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/jsoup-1.10.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/selenium-server-standalone-2.53.1.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/javalibs" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/weka-3-8-1/doc" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/commons-io-2.5/docs" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-common" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-icu" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-kuromoji" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-morfologik" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-phonetic" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-smartcn" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-stempel" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/analyzers-uima" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/backward-codecs" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/benchmark" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/classification" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/codecs" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/core" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/demo" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/expressions" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/facet" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/grouping" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/highlighter" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/join" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/memory" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/misc" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/queries" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/queryparser" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/replicator" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/sandbox" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/spatial" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/spatial-extras" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/spatial3d" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/suggest" />
+      <root url="file://$USER_HOME$/Downloads/javalibs/lucene-6.6.0/docs/test-framework" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/selenium-java-2.53.1.zip!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/javalibs/selenium-java-2.53.1.zip!/" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/weka-3-8-1" />
+      <root url="jar://$USER_HOME$/Downloads/javalibs/tika-app-1.10.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/javalibs" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/weka-3-8-1" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/javalibs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/weka-3-8-1" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/javalibs" recursive="false" type="SOURCES" />
+  </library>
+</component>
